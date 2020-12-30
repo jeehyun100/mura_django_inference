@@ -1,1 +1,5 @@
-Django==1.9.8
+Django==2.0.0 #1.9.8
+torch==1.6.0
+torchvision==0.7.0
+opencv-python==4.3.0.36
+matplotlib
